@@ -1,3 +1,3 @@
 # sitematematica
-Primeiro Projeto em HTML - Página de Matemática
-https://eduardamaciel.github.io/sitematematica/Atividade.html
+<b>Primeiro Projeto em HTML</b> - Página de Matemática <br>
+Conteúdo da página: Conceitos básicos de Potenciação. <br>
